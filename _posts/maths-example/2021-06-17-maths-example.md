@@ -6,8 +6,6 @@ categories: jekyll update
 usemathjax: true
 ---
 
-Below is an example of maths using mathjax. 
-
 Any page needing maths should start with the frontmatter:
 {% highlight markdown %}
 usemathjax: true
